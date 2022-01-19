@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+}
+.grid {
+  border: 1px solid black;
+  width: 40px;
+  height: 40px;
+  align-self: center;
+}
+body {
+  background-color: rgb(20, 214, 198);
+}
+#resetButton {
+  background-color: rgb(6, 2, 24);
+  color: brown;
+}
